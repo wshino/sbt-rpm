@@ -2,6 +2,7 @@
 
 SBT is scala build tool. 
 RPM is package manager for Redhat, Centos, Scientific Linux.
+sbt-rpm can create rpm package. Using sbt-native-packager's rpm plugin.
 
 # Usage
 
